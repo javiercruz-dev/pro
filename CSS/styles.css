@@ -30,7 +30,7 @@ h3 {
 }
 
 p {
-  font-size: 3rem;
+  font-size: 3.1rem;
   line-height: 2;
 }
 a {
@@ -89,6 +89,9 @@ hr {
   margin: 100px auto 100px auto;
   text-align: left;
   line-height: 2;
+}
+.skill-row a {
+  color: #38B3B7;
 }
 .code-img {
   width: 15%;
